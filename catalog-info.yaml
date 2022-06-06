@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "Doc"
   annotations:
-    github.com/project-slug: ShikhaVashishtha/https-github.com-ShikhaVashishtha-https-github.com-ShikhaVashishtha-backstage
+    circleci.com/project-slug: github/ShikhaVashishtha/https-github.com-ShikhaVashishtha-https-github.com-ShikhaVashishtha-backstage
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
